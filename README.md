@@ -1,2 +1,2 @@
 # Thermodynamics-Notes
-Notes for ME 321
+Fall 2017 Notes for ME 321
